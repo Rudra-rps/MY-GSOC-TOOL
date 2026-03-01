@@ -1,14 +1,14 @@
 [
   {
     "title": "Week 1: Getting Started",
-    "date": "2024-05-27",
+    "date": "2026-02-15",
     "excerpt": "My journey begins! Set up the development environment and explored the codebase.",
     "content": "<p>This is the full content of the Week 1 blog post. You can use HTML here to format your text.</p><p>I started by cloning the repository and setting up the dependencies. Then I explored the existing codebase to understand the architecture.</p>",
     "readTime": "2 min read"
   },
   {
     "title": "Week 2: Initial Analysis",
-    "date": "2024-06-03",
+    "date": "2026-02-22",
     "excerpt": "Analyzed the requirements and created a plan for the new features.",
     "content": "<p>In the second week, I focused on analyzing the project requirements in detail. I created a comprehensive implementation plan and discussed it with my mentors.</p><ul><li>requirement analysis</li><li>planning</li></ul>",
     "readTime": "3 min read"
